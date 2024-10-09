@@ -1,4 +1,4 @@
-# youtube-discord-fix
+# Обход блокировки Discord и Youtube на Windows | Android | Ios
 
 ## Способ: Использование WARP для обхода блокировки
 
