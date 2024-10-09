@@ -8,9 +8,9 @@
 
 1. **Выключите VPN и GoodbyeDPI:**
    - Перед выполнением последующих шагов убедитесь, что все сторонние сервисы ускорения отключены.
-2. **Перейдите в консоль Google:**
+2. **Перейдите в консоль Google или Codespace:**
    - Откройте [Google Cloud Console](https://console.cloud.google.com/)
-   - или Codespace [Codespace](https://github.com/codespaces/)
+   - Откройте [Codespace](https://github.com/codespaces/)
    - для Codespace в разделе Blank нажмите кнопку Use this template
 3. **Выполните команду в консоли:**
    - Вставьте следующую команду в консоль:
