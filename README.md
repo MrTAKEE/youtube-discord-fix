@@ -20,8 +20,8 @@
 4. **Получите файл `WARP.conf`:**
    - После выполнения команды в консоли появится ссылка. Перейдите по этой ссылке и скачайте файл `WARP.conf`.
 5. **Скачайте и установите программу для туннелирования:**
-   - Скачайте программу для туннелирования по [этой ссылке](https://github.com/amnezia-vpn/amneziawg-windows-client/releases/download/1.0.0/amneziawg-amd64-1.0.0.msi/).
-   - Для андроид по [этой ссылке](https://play.google.com/store/apps/details?id=org.amnezia.awg&hl=en_SG&gl=US&pli=1/)
+   - Для Windows по [этой ссылке](https://github.com/amnezia-vpn/amneziawg-windows-client/releases/download/1.0.0/amneziawg-amd64-1.0.0.msi/).
+   - Для Android по [этой ссылке](https://play.google.com/store/apps/details?id=org.amnezia.awg&hl=en_SG&gl=US&pli=1/)
 6. **Добавьте туннель:**
    - Откройте установленную программу, нажмите «Добавить туннель», и выберите файл `WARP.conf`, который вы скачали ранее.
 7. **Подключитесь к туннелю:**
