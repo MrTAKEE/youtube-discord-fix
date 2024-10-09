@@ -1,4 +1,4 @@
-# Обход блокировки Discord и Youtube на Windows | Android | Ios
+# Обход блокировки Discord и Youtube на Windows | Android
 
 ## Способ: Использование WARP для обхода блокировки
 
@@ -21,8 +21,7 @@
    - После выполнения команды в консоли появится ссылка. Перейдите по этой ссылке и скачайте файл `WARP.conf`.
 5. **Скачайте и установите программу для туннелирования:**
    - Скачайте программу для туннелирования по [этой ссылке](https://github.com/amnezia-vpn/amneziawg-windows-client/releases/download/1.0.0/amneziawg-amd64-1.0.0.msi/).
-   - Для андроид [этой ссылке](https://play.google.com/store/apps/details?id=org.amnezia.awg&hl=en_SG&gl=US&pli=1/)
-   - Для ios [этой ссылке](https://apps.apple.com/ru/app/amneziawg/id6478942365/)
+   - Для андроид по [этой ссылке](https://play.google.com/store/apps/details?id=org.amnezia.awg&hl=en_SG&gl=US&pli=1/)
 6. **Добавьте туннель:**
    - Откройте установленную программу, нажмите «Добавить туннель», и выберите файл `WARP.conf`, который вы скачали ранее.
 7. **Подключитесь к туннелю:**
